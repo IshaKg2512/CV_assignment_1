@@ -74,10 +74,3 @@ The following models are evaluated for disease classification:
    ```bash
    python visualize_results.py
    ```  
-
----
-
-## 📢 Results & Findings  
-- Model-wise accuracy and PR curves will be presented after experiments.  
-- Performance comparison between different architectures will be analyzed.  
-- The impact of augmentation on thermal images will be discussed.  
